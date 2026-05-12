@@ -217,20 +217,6 @@ pip install pyautogui
   time.sleep(3)  # Increase from 2 to 3 seconds
   ```
 
-## 📸 Screenshots
-
-The script automatically captures screenshots at each step:
-
-| Screenshot | Description |
-|------------|-------------|
-| `step1_after_login.png` | After submitting login credentials |
-| `step2_otp_page.png` | OTP entry page |
-| `step2_otp_entered.png` | After entering OTP digits |
-| `step3_after_otp.png` | After OTP verification |
-| `step3_upload_page.png` | Upload page before file selection |
-| `step4_after_upload.png` | After successful file upload |
-| `error.png` | Error screenshot (if test fails) |
-
 ## 🔐 Configuration
 
 ### Changing Credentials
