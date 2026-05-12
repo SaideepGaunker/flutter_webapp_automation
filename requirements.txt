@@ -1,0 +1,8 @@
+# Selenium WebDriver for browser automation
+selenium>=4.6.0
+
+# PyAutoGUI for handling file picker dialogs
+pyautogui>=0.9.53
+
+# Optional: For better screenshot handling
+Pillow>=9.0.0
